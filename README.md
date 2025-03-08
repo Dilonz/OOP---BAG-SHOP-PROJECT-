@@ -1,2 +1,2 @@
 # OOP---BAG-SHOP-PROJECT-
-Bag Shop Project Description
+The system has two user levels: Cashier (manage bag details, add new items, search by category) and Manager (can create cashier accounts)
